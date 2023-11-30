@@ -1,0 +1,6 @@
+.grid_container{
+    display: grid;
+    width: 50%;
+    height: 500px;
+    grid-template-rows: 40% 60% ;
+}
